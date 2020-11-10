@@ -34,6 +34,9 @@ console.log(result) // "ghimmnorstyy"
 **/
 
 function alphabetSoup(str) {
-	//Your code here
-	
+	var splitVar = str.split('');	
+	 splitVar.sort();
+	 console.log(splitVar.join('').trim());
 }
+
+alphabetSoup("Today is Monday.");
