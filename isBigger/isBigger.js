@@ -39,7 +39,16 @@ console.log(result) // -1
 
 
 
-function isBigger(a, b) {
-	//Your code here
-	
+function isBigger(a,b) {
+	if (a === b)
+	console.log("0");
+	else if (a > b)
+	console.log("True");
+	else
+	console.log("False");
 }
+
+isBigger(20,2);
+isBigger(18,90);
+isBigger(100,100);
+ 
