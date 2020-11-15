@@ -9,6 +9,7 @@
 //String.split() https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 //String.length https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
 
+
 //TEST CASES
 // findLongestWord("The quick brown fox jumped over the lazy dog");
 // findLongestWord("The quick brown fox jumped over the lazy dog") should return a number.
